@@ -164,7 +164,7 @@ func (d *Pan123) login() error {
 			"referer":     "https://www.123pan.com/",
 			"user-agent":  "123pan/v2.4.0(Android_7.1.2;Xiaomi)",
 			"platform":    "android",
-			"x-app-version": "2.4.0"
+			"x-app-version": "2.4.0",
 			"app-version": "61",
 			//"user-agent":  base.UserAgent,
 		}).
